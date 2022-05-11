@@ -1,1 +1,1 @@
-# Analise_De_Sentiimento_Tweets
+Projeto realizado com fins de aprendizado de PLN. Será realizado uma classificação com 4 classificadores estatisticos, sendo eles, Naive bayes, Random Forest, Decision Tree e Regressão Logistica. O dataset utilizado tem como caracteristica a classificação em sentimentos ruins, bons e neutros.
